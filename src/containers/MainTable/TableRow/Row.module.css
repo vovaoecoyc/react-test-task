@@ -1,0 +1,7 @@
+.cursorStyle {
+  cursor: pointer;
+}
+
+.activeRow {
+  background-color: #aa6c6c;
+}
